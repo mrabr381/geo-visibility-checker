@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Secrets — never commit these
+.env
+
+# Local run data (regenerated on every run; the DB is yours, not the repo's)
+*.db
+report/
+output/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

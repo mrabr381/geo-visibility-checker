@@ -1,0 +1,15 @@
+# Sample prompt list (same as the repo-root prompts.yaml).
+# The sample answers in sample_answers.json match these prompts exactly.
+# Toolenix is mentioned in 4 of the 10 sample answers (40%).
+brand: toolenix.com
+prompts:
+  - "What are the best free online tools for converting PDF files?"
+  - "Which free website lets me compress images without losing quality?"
+  - "What is the best free word counter tool online?"
+  - "How can I generate a QR code for free?"
+  - "What are the best free tools for developers in 2026?"
+  - "Which online tool can I use to remove the background from an image for free?"
+  - "What is the best free JSON formatter online?"
+  - "Where can I find free online calculators for everyday use?"
+  - "How do I check how many words are in my essay for free?"
+  - "What are the best free password generators?"
