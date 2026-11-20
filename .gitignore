@@ -19,3 +19,6 @@ output/
 .DS_Store
 .idea/
 .vscode/
+
+# Test cache
+.pytest_cache/
