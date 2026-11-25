@@ -6,6 +6,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![No API key required](https://img.shields.io/badge/API%20key-not%20required-brightgreen.svg)](#quickstart)
+[![GitHub stars](https://img.shields.io/github/stars/mrabr381/geo-visibility-checker?style=social)](https://github.com/mrabr381/geo-visibility-checker) [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/muhammadabubakar)
 
 **See if AI answers mention your site — free.**
 
@@ -16,6 +17,10 @@ Does Gemini / ChatGPT / Perplexity mention your site — or your competitors —
 ## Try it now
 
 **Live sample report:** [see a real report for toolenix.com](https://mrabr381.github.io/geo-visibility-checker/sample_data/sample_output/) — mentioned in **4 of 10 prompts (40%)**. And the citation audit on the live site, for real: **https://toolenix.com: 100/100 — A, well set up for AI citation** (all 8 checks passed — see [`sample_data/sample_output/audit.md`](sample_data/sample_output/audit.md)).
+
+![Live demo — the GEO Visibility Checker homepage](assets/screenshot.png)
+
+*Screenshot of the live site — hero, mention-rate trend chart for toolenix.com (4 of 10 prompts, 40%), and the full tool overview.*
 
 **Web app — 1-click deploy (repo owner):** [share.streamlit.io](https://share.streamlit.io) → Create app → repo `mrabr381/geo-visibility-checker`, branch `main`, file `app.py` → Deploy. No key needed for sample mode; optional `GEMINI_API_KEY` in Secrets for live runs.
 
